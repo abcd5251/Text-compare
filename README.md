@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Text Compare app 
+This is a simple text compare app.
+![Demo](./public/demo.png)
 
 ## Getting Started
 
